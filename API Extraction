@@ -1,0 +1,14 @@
+pip install kaggle
+import os
+
+# Set up your Kaggle API key
+os.environ["KAGGLE_USERNAME"] = "KAGGLE_USERNAME"
+os.environ["KAGGLE_KEY"]= "KAGGLE_KEY"
+
+# Download the dataset using the Kaggle API
+!kaggle datasets download -d blastchar/telco-customer-churn
+
+# Optionally, unzip the downloaded file
+!unzip telco-customer-churn.zip -d telco-customer-churn
+
+
