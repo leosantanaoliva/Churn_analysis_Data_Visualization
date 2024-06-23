@@ -34,6 +34,9 @@ This project explores customer churn in the telecommunications industry using da
 - PostgreSQL (for data storage)
 - Power BI (for visualization and dashboard creation)
 
+## Results
+![image](https://github.com/leosantanaoliva/Churn_analysis_Data_Visualization/assets/74313125/9ba88943-4eea-4ad4-9906-5eae06750d7c)
+
 ## Acknowledgments
 - Kaggle for providing the Telco customer churn dataset.
 - Power BI community for resources and support in visualization creation.
