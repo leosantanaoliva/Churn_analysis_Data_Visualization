@@ -1,4 +1,4 @@
-#Customer Churn Analysis Project
+# Customer Churn Analysis Project
 ![Screen Shot 2024-08-03 at 11 36 25 AM](https://github.com/user-attachments/assets/02c2be9b-eb22-49a2-9ab4-446d368bccc0)
 
 
